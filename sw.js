@@ -1,4 +1,4 @@
-const CACHE_NAME = 'zoolingo-v13-final-check';
+const CACHE_NAME = 'zoolingo-v14-deployment-fix';
 
 // Initial assets to cache immediately
 const PRE_CACHE_ASSETS = [
