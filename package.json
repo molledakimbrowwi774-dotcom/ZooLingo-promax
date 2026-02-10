@@ -1,4 +1,3 @@
-
 {
   "name": "zoolingo",
   "private": true,
@@ -14,7 +13,8 @@
     "react-dom": "^18.2.0",
     "@heroicons/react": "^2.0.18",
     "clsx": "^2.0.0",
-    "tailwind-merge": "^1.14.0"
+    "tailwind-merge": "^1.14.0",
+    "canvas-confetti": "^1.9.2"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
@@ -24,6 +24,7 @@
     "postcss": "^8.4.27",
     "tailwindcss": "^3.3.3",
     "typescript": "^5.0.2",
-    "vite": "^4.4.5"
+    "vite": "^4.4.5",
+    "@types/canvas-confetti": "^1.6.4"
   }
 }
