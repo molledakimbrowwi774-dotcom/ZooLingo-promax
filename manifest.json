@@ -1,0 +1,19 @@
+
+{
+  "name": "ZooLingo",
+  "short_name": "ZooLingo",
+  "description": "A cute, cartoon-themed English learning app.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFFBEB",
+  "theme_color": "#FFFBEB",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
